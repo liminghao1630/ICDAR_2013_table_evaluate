@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document filename="us-025.pdf">
+	<table id="1">
+		<region id="1" page="2">
+			<bounding-box x1="41" y1="270" x2="571" y2="470"/>
+		</region>
+	</table>
+	<table id="2">
+		<region id="1" page="2">
+			<bounding-box x1="43" y1="542" x2="569" y2="696"/>
+		</region>
+	</table>
+	<table id="3">
+		<region id="1" page="3">
+			<bounding-box x1="32" y1="351" x2="562" y2="518"/>
+		</region>
+	</table>
+	<table id="4">
+		<region id="1" page="3">
+			<bounding-box x1="32" y1="593" x2="566" y2="691"/>
+		</region>
+	</table>
+	<table id="5">
+		<region id="1" page="3">
+			<bounding-box x1="33" y1="179" x2="557" y2="269"/>
+		</region>
+	</table>
+</document>

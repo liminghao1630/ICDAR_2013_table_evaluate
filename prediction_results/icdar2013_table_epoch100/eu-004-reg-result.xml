@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<document filename="eu-004.pdf">
+	<table id="1">
+		<region id="1" page="11">
+			<bounding-box x1="71" y1="422" x2="518" y2="651"/>
+		</region>
+	</table>
+	<table id="2">
+		<region id="1" page="12">
+			<bounding-box x1="99" y1="259" x2="494" y2="541"/>
+		</region>
+	</table>
+	<table id="3">
+		<region id="1" page="14">
+			<bounding-box x1="74" y1="366" x2="514" y2="742"/>
+		</region>
+	</table>
+	<table id="4">
+		<region id="1" page="2">
+			<bounding-box x1="74" y1="159" x2="510" y2="396"/>
+		</region>
+	</table>
+	<table id="5">
+		<region id="1" page="2">
+			<bounding-box x1="77" y1="502" x2="516" y2="741"/>
+		</region>
+	</table>
+	<table id="6">
+		<region id="1" page="3">
+			<bounding-box x1="79" y1="186" x2="509" y2="250"/>
+		</region>
+	</table>
+	<table id="7">
+		<region id="1" page="4">
+			<bounding-box x1="117" y1="244" x2="470" y2="459"/>
+		</region>
+	</table>
+	<table id="8">
+		<region id="1" page="6">
+			<bounding-box x1="75" y1="411" x2="511" y2="667"/>
+		</region>
+	</table>
+	<table id="9">
+		<region id="1" page="7">
+			<bounding-box x1="76" y1="356" x2="512" y2="588"/>
+		</region>
+	</table>
+	<table id="10">
+		<region id="1" page="8">
+			<bounding-box x1="72" y1="200" x2="513" y2="432"/>
+		</region>
+	</table>
+	<table id="11">
+		<region id="1" page="9">
+			<bounding-box x1="108" y1="472" x2="481" y2="702"/>
+		</region>
+	</table>
+	<table id="12">
+		<region id="1" page="10">
+			<bounding-box x1="106" y1="514" x2="480" y2="734"/>
+		</region>
+	</table>
+</document>

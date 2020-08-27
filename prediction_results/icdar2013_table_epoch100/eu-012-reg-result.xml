@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document filename="eu-012.pdf">
+	<table id="1">
+		<region id="1" page="3">
+			<bounding-box x1="77" y1="211" x2="512" y2="285"/>
+		</region>
+	</table>
+	<table id="2">
+		<region id="1" page="4">
+			<bounding-box x1="78" y1="405" x2="514" y2="619"/>
+		</region>
+	</table>
+	<table id="3">
+		<region id="1" page="4">
+			<bounding-box x1="75" y1="156" x2="520" y2="239"/>
+		</region>
+	</table>
+	<table id="4">
+		<region id="1" page="5">
+			<bounding-box x1="75" y1="187" x2="509" y2="355"/>
+		</region>
+	</table>
+	<table id="5">
+		<region id="1" page="5">
+			<bounding-box x1="75" y1="639" x2="522" y2="728"/>
+		</region>
+	</table>
+</document>

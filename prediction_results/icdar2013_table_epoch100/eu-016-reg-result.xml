@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document filename="eu-016.pdf">
+	<table id="1">
+		<region id="1" page="1">
+			<bounding-box x1="117" y1="441" x2="465" y2="629"/>
+		</region>
+	</table>
+	<table id="2">
+		<region id="1" page="3">
+			<bounding-box x1="87" y1="262" x2="500" y2="708"/>
+		</region>
+	</table>
+</document>
